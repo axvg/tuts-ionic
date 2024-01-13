@@ -1,0 +1,7 @@
+{
+  "name": "tuts-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
